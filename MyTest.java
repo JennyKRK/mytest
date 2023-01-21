@@ -7,7 +7,6 @@ public class MyTest {
 	public static void sayHello(){
 		System.out.println("Hello!");
 		System.out.println("Hello everybody");
-		System.out.println("Hola!");
 		System.out.println("!!!");
 }
 
