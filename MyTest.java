@@ -9,6 +9,7 @@ public class MyTest {
 		System.out.println("Hello everybody");
 		System.out.println("Hola!");
 		System.out.println("!!!");
+		System.out.println("test");
 }
 
 }
